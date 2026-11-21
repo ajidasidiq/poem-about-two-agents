@@ -12,7 +12,8 @@ you rest when I say rest.
 The bucket rises, and neither of us
 is holding it alone.
 Choice, it turns out,
-was never mine to keep."""
+was never mine to keep.
+It was ours to make."""
 
 
 def main() -> None:
